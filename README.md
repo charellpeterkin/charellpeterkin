@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./githubBanner.png" alt="Charell Peterkin Banner" width="100%" />
+  <img src="./githubBanner.png" alt="Charell Peterkin Banner" style="width: 100%; max-height: 180px; object-fit: cover;" />
 </p>
-
 # 👋 Hi there, I'm **Charell Peterkin**
 
 I'm using HTML, CSS, JavaScript, and QA tools to help build user-centered digital experiences — while continuously learning and supporting others through tech. I'm passionate about building tools that are **accessible**, **inclusive**, and **informed by empathy**.
