@@ -14,10 +14,22 @@ I'm using HTML, CSS, JavaScript, and QA tools to help build user-centered digita
 
 ---
 
-## 🚧 I'm working on
+## 🧑‍💼 Work Experience
 
-- Projects supporting tech accessibility and QA best practices  
-- Building stronger technical documentation and digital portfolios
+### 🧪 QA UAT Intern — G3MS (2024–Present)  
+Supported mobile and web QA testing using Appium and Selenium. Logged and reported bugs, collaborated with developers and designers, and wrote documentation for UAT processes.
+
+### 🎬 Video Automation Technician — Particle3 (2023–2024)  
+Managed digital asset workflows and automation tools in a remote creative environment. Optimized file organization and flagged content delivery issues.
+
+### 🧾 College Assistant — Brooklyn College (2022–2023)  
+Assisted students with digital tools and document management during financial aid and registration periods.
+
+### 📞 Customer Support Rep — FEMA (2021–2022)  
+Provided crisis assistance using secure communication platforms. Delivered compassionate, accurate guidance to thousands of users.
+
+### 📬 Postal Clerk — USPS (2019–2021)  
+Operated logistics and point-of-sale systems, ensuring accurate sorting and customer service under tight deadlines.
 
 ---
 
@@ -45,6 +57,7 @@ I'm using HTML, CSS, JavaScript, and QA tools to help build user-centered digita
 ## 🌟 Fun Fact
 
 I’m a hiker, dancer, and singer who loves period dramas and Afrofuturist books — and I’m a proud mom of two brilliant daughters 💜
+
 
 
 
