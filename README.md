@@ -1,49 +1,50 @@
-# 👋 Hi, I'm Charell Peterkin
+# 👋 Hi there, I'm **Charell Peterkin**
 
-Welcome to my GitHub! I'm a passionate and multidisciplinary technologist currently pursuing an A.S. in Computer Science at Kingsborough Community College and a recent graduate of the Pursuit Full Stack Web Development Fellowship. I bring a diverse background in technical support, QA, user-focused development, and administrative operations—all guided by curiosity, empathy, and a drive to help others grow through technology.
-
----
-
-## 👩🏾‍💻 Tech Snapshot
-
-- 💻 **Languages & Frameworks**: JavaScript (React/Node), HTML/CSS, Python
-- 🧪 **QA Tools**: Selenium, Appium, Postman, JIRA
-- 📦 **Systems & Platforms**: Git, GitHub, REST APIs, MongoDB
-- 🧠 **Strengths**: User-Centered Design, Cross-Team Collaboration, Digital Asset Management, Tech Support, and Empathetic Communication
+I'm using HTML, CSS, JavaScript, and QA tools to help build user-centered digital experiences — while continuously learning and supporting others through tech. I'm passionate about building tools that are **accessible**, **inclusive**, and **informed by empathy**.
 
 ---
 
-## 🎯 Recent Experience
+## 💻 I love working with
 
-- **QA UAT Intern @ G3MS**  
-  Supporting mobile and web QA testing, reporting bugs, collaborating with dev and design teams to deliver seamless features.
-
-- **Video Automation Technician @ Particle3**  
-  Managing media workflows and supporting creative asset flow across remote teams.
-
-- **College Assistant @ Brooklyn College**  
-  Provided tech-related admin support and created training resources for student platforms.
-
-- **FEMA Customer Service Rep & USPS Clerk**  
-  High-pressure roles requiring tech-enabled customer care and organizational precision.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
-## 💡 Personal Passions
+## 🚧 I'm working on
 
-- 🥾 Hiking, 💃🏾 Dancing, 🎤 Singing  
-- 📚 Devoted reader of **period pieces** and **Afrofuturist literature**
-- 👩‍👧‍👧 Proud mom of two incredible daughters
-
----
-
-## 🧭 Why I'm Here
-
-I believe in the power of accessible technology to elevate communities and transform lives. My goal is to combine strong technical skills with emotional intelligence to build tools and systems that are intuitive, inclusive, and impactful.
+- Projects supporting tech accessibility and QA best practices  
+- Building stronger technical documentation and digital portfolios
 
 ---
 
-### 📫 Let’s Connect
-- LinkedIn: [linkedin.com/in/charellpeterkin](https://linkedin.com/in/charellpeterkin)
-- Email: Charell.Peterkin@yahoo.com
+## 📚 I'm learning
+
+![AWS Cloud Security](https://img.shields.io/badge/AWS_Cloud_Security-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Accessibility](https://img.shields.io/badge/Web_Accessibility-000000?style=for-the-badge&logo=accessibility&logoColor=white)
+
+---
+
+## 💬 I'm looking for help with
+
+- Growing in **cloud infrastructure** and **DevOps basics**
+- Collaborating on **community-driven tech projects**
+
+---
+
+## 📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/charellpeterkin)  
+📧 Charell.Peterkin@yahoo.com
+
+---
+
+## 🌟 Fun Fact
+
+I’m a hiker, dancer, and singer who loves period dramas and Afrofuturist books — and I’m a proud mom of two brilliant daughters 💜
+
+
 
